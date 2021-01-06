@@ -1,0 +1,57 @@
+
+p{
+  color:blue;
+  font-family: 'Langar', cursive;
+  font-size:150%;
+}
+body {
+   background-color:#c6ebc9;
+   font-family: 'Langar', cursive;
+   margin: 0;
+ }
+h1{
+
+   color:blue;
+
+     font-family: 'Langar', cursive;
+ }
+
+h2{
+
+  color:blue; font-family: 'Langar', cursive;
+}
+hr{
+  width: 100px;
+}
+
+.tb1{
+  width:190px;
+}
+.tab1{
+  margin: 5px auto auto 20px
+}
+li{
+  font-size: 120%;
+
+  font-family: 'Langer', cursive;
+}
+ul{
+  line-height: 1.6;
+
+}
+s
+.td2{
+  width:150px;
+}
+.td3{
+ font-size: 150%;
+}
+hr{
+border-width:5px;
+
+border-color: #70af85;
+
+border-style: dotted none none;
+
+margin: 15px auto;
+}
